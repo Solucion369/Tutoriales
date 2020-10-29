@@ -7,6 +7,7 @@
   * <a href="../../wiki/Control-de-Motores-DC-con-el-Módulo-L298N">Control de Motores DC con el Módulo L298N</a>
 * Programación ESP8266 (NodeMCU y WeMos D1 Mini)
   * <a href="../../wiki/ESP8266-Introduccion">Introducción a ESP8266</a>
+  * <a href="../../wiki/ESP8266-Entradas-Salidas-Digitales">ESP8266 Entradas/Salidas Digitales</a>  
 * Programación ESP32
   * <a href="../../wiki/ESP32-Introduccion">Introducción a ESP32</a>
   * <a href="../../wiki/Usando WiFi">Usando WiFi</a>
