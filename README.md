@@ -1,2 +1,2 @@
 # Tutoriales
-Recopilación de todos los [tutoriales](../../wiki/Contenidos) para los talleres de PensActius. 
+Recopilación tutoriales de programación con Arduino y otras placas para los talleres de PensActius. Consulta la [Tabla de Contenidos](../../wiki/Contenidos). 
