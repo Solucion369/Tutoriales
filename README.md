@@ -3,6 +3,7 @@
 * Displays
   * <a href="../../wiki/Display-Oled-SPI-Intro">Display Oled SPI - Introducción (En construcción)</a>
   * <a href="../../wiki/Display-Oled-SPI-Fuentes-y-simbolos">Display Oled SPI - Fuentes y símbolos</a>
+  * <a href="../../wiki/Display-16x2-Character-LCD">LCD 16x2 Caracteres</a>
 * Motores
   * <a href="../../wiki/Control-de-Motores-DC-con-el-Módulo-L298N">Control de Motores DC con el Módulo L298N</a>
 * Programación ESP8266 (NodeMCU y WeMos D1 Mini)
