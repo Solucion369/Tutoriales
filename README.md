@@ -7,6 +7,7 @@
   * <a href="../../wiki/Display-16x2-Character-LCD-Expansi%C3%B3n-I2C">Display 16x2 Character LCD Expansión I2C</a>  
 * Motores
   * <a href="../../wiki/Control-de-Motores-DC-con-el-Módulo-L298N">Control de Motores DC con el Módulo L298N</a>
+  * <a href="../../wiki/Control-RC-y-Arduino">Control-RC-y-Arduino</a>
 * Programación ESP8266 (NodeMCU y WeMos D1 Mini)
   * <a href="../../wiki/ESP8266-Introduccion">Introducción a ESP8266</a>
   * <a href="../../wiki/ESP8266-Entradas-Salidas-Digitales">ESP8266 Entradas/Salidas Digitales</a>  
