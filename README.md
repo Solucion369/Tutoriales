@@ -1,6 +1,7 @@
 # Tabla de Contenidos
 
 * Displays
+  * <a href="../../wiki/LEDs-RGB-y-Tiras-Direccionables">LEDs RGB y Tiras Direccionables</a>
   * <a href="../../wiki/Display-Oled-SPI-Intro">Display Oled SPI - Introducción (En construcción)</a>
   * <a href="../../wiki/Display-Oled-SPI-Fuentes-y-simbolos">Display Oled SPI - Fuentes y símbolos</a>
   * <a href="../../wiki/Display-16x2-Character-LCD">LCD 16x2 Caracteres</a>
