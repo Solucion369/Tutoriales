@@ -1,7 +1,7 @@
 # Tabla de Contenidos
 
 * Displays
-  * <a href="../../wiki/LEDs-RGB">LED RGB</a>
+  * <a href="../../wiki/LED-RGB">LED RGB</a>
   * [Tira de LED RGB Direccionable](../../wiki/Tira-de-LED-RGB-Direccionable)
   * <a href="../../wiki/Display-Oled-SPI-Intro">Display Oled SPI - Introducción (En construcción)</a>
   * <a href="../../wiki/Display-Oled-SPI-Fuentes-y-simbolos">Display Oled SPI - Fuentes y símbolos</a>
