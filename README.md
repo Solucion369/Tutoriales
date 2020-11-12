@@ -26,3 +26,4 @@
   
 * Programación con MicroPython
   * <a href="../../wiki/Programación-ESP8266-con-MicroPython">Programación ESP8266 con MicroPython</a>
+  * [Tira-de-LED RGB Direccionable con MicroPython](../../wiki/Tira-de-LED-RGB-Direccionable-con-MicroPython)
