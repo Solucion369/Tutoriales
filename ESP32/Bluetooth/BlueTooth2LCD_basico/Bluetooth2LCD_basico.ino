@@ -27,6 +27,8 @@ void loop() {
 
   if (bt.available()) {
     char c = bt.read();
+    
+    // Descarta caracteres no visibles (0..31)
     if (c > 31) {
       lcd.write (c);
     }
