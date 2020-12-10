@@ -1,4 +1,4 @@
-Programa que recibe texto por bluetooth del ESP32 y lo escribe en un LCD LCD 16x2 (con módulo I2C)
+Programa que recibe texto por el bluetooth integrado del ESP32 y lo escribe en un LCD 16x2 (con módulo I2C)
 
 Esta versión es muy básica y tiene limitaciones:
 
