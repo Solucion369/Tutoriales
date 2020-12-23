@@ -29,3 +29,5 @@
   * [Entradas y Salidas Digitales con MicroPython](../../wiki/Entradas-y-Salidas-Digitales-con-MicroPython)
   * [PWM con MicroPython](../../wiki/PWM-con-MicroPython)
   * [Tira de LED RGB Direccionable con MicroPython](../../wiki/Tira-de-LED-RGB-Direccionable-con-MicroPython)
+  * [Display OLED con MicroPython](../../wiki/Display-OLED-con-MicroPython)
+
