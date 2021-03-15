@@ -9,6 +9,7 @@
   * [Display OLED con MicroPython](../../wiki/Display-OLED-con-MicroPython)
   
 * Displays
+  * <a href="../../wiki/Display-ILI9341">Display ILI9341</a>
   * <a href="../../wiki/LED-RGB">LED RGB</a>
   * [Tira de LED RGB Direccionable](../../wiki/Tira-de-LED-RGB-Direccionable)
   * <a href="../../wiki/Display-Oled-SPI-Intro">Display Oled SPI - Introducción (En construcción)</a>
