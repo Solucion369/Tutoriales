@@ -35,7 +35,7 @@
   
 * ESP32
   * [Introducción a ESP32](../../wiki/ESP32-Introduccion)
-  * [Usando WiFi](../../wiki/Usando WiFi)
+  * [Usando WiFi](../../wiki/Usando-WiFi)
   * [Obtener la hora desde Internet](../../wiki/Obtener-la-hora-desde-Internet)
   
 * Blue Pill (STM32F103xx)
